@@ -8,12 +8,12 @@
 # META   },
 # META   "dependencies": {
 # META     "lakehouse": {
-# META       "default_lakehouse": "d9dc40ac-75ae-4620-8987-f0f523d31e69",
+# META       "default_lakehouse": "15642f53-3ae0-4eb7-9c62-456b19d76241",
 # META       "default_lakehouse_name": "Bronze_WWI",
-# META       "default_lakehouse_workspace_id": "28db5efc-14fd-4c15-a74e-994ae1f48847",
+# META       "default_lakehouse_workspace_id": "b6d7b31c-9af0-427d-b250-c74c5333fabe",
 # META       "known_lakehouses": [
 # META         {
-# META           "id": "d9dc40ac-75ae-4620-8987-f0f523d31e69"
+# META           "id": "15642f53-3ae0-4eb7-9c62-456b19d76241"
 # META         }
 # META       ]
 # META     }
